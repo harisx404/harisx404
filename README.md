@@ -29,7 +29,7 @@
 ---
 
 ### 📡 Current Operations
-- 🚀 **Developing:** [TourMate-Malakand Frontend](https://github.com/harisx404/tourmate_malakand_frontend) [TourMate-Malakand Backend](https://github.com/harisx404/tourmate_malakand_backend) — A GIS-powered, secure MERN tourism platform.
+- 🚀 **Developing:** [TourMate-Malakand Frontend](https://github.com/harisx404/tourmate_malakand_frontend) | [TourMate-Malakand Backend](https://github.com/harisx404/tourmate_malakand_backend) — A GIS-powered, secure MERN tourism platform.
 - 🛡️ **Defending:** Implementing advanced middleware patterns for API gateway protection and threat mitigation.
 - 🎓 **Academic:** Completing BS-IT (Session 2022-2026) at the University of Malakand.
 - ⚡ **Exploring:** Blockchain security architectures and AI-integrated vulnerability assessment.
