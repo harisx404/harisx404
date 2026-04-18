@@ -1,4 +1,4 @@
-# ⚡ Terminal -> root@harisx404:~$
+# ⚡ Terminal -> root@harisx404:~$ _
 
 <div align="left">
   <h3> Full-Stack MERN Developer | Cybersecurity Professional 🛡️ </h3>
