@@ -1,44 +1,112 @@
-# ⚡ Terminal -> root@harisx404:~$ _
+<div align="center">
 
-<div align="left">
-  <h3> Full-Stack MERN Architect | Cybersecurity & AI Professional 🛡️ </h3>
-  <p> 
-    <b>BSIT Graduate (2022–2026) | Ranked Top 15% Nationwide in the HEC NSCT.</b><br>
-    Dual-specialist operating at the intersection of scalable software development and proactive defense-in-depth strategies. My engineering philosophy is absolute: to effectively secure a system, you must first understand how it is built from the ground up.
-  </p>
+```
+ ██╗  ██╗ █████╗ ██████╗ ██╗███████╗██╗  ██╗██╗  ██╗ ██████╗ ██╗  ██╗
+ ██║  ██║██╔══██╗██╔══██╗██║██╔════╝╚██╗██╔╝██║  ██║██╔═████╗██║  ██║
+ ███████║███████║██████╔╝██║███████╗ ╚███╔╝ ███████║██║██╔██║███████║
+ ██╔══██║██╔══██║██╔══██╗██║╚════██║ ██╔██╗ ╚════██║████╔╝██║╚════██║
+ ██║  ██║██║  ██║██║  ██║██║███████║██╔╝ ██╗      ██║╚██████╔╝     ██║
+ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝     ╚═╝ ╚═════╝      ╚═╝
+```
+
+### `root@harisx404:~$ _`
+
+**Full-Stack MERN Developer · Cybersecurity Professional 🛡️**
+
 </div>
 
 ---
 
-### 💻 Professional Arsenal
+## 👤 Identity
+
+```
+Name    :  Muhammad Haris
+Handle  :  harisx404
+Degree  :  BSc Information Technology (2022–2026) — University of Malakand
+Stack   :  MERN | TypeScript | Node.js | React.js | MongoDB Atlas
+Sec Ops :  Application Security | Network Defense | SOC Operations | CTF Labs
+Rank    :  Top 15% Nationwide — HEC/MoITT National Skill Competency Test (33,000+ candidates)
+Status  :  Open to Opportunities — Cybersecurity · Full-Stack Development · AppSec
+```
+
+---
+
+## 💻 Technical Arsenal
 
 **Full-Stack Engineering (MERN)**
-* **Frontend:** Architecting responsive, high-speed SPAs with React.js, Vite, Mapbox GL JS, and Tailwind CSS.
-* **Backend:** Engineering enterprise-grade REST APIs using Node.js, Express.js, and TypeScript with strict layered MVC architecture and Turborepo.
-* **Data Layer:** Managing multi-tenant schemas, real-time WebSockets, and geospatial indexing (`2dsphere`) in MongoDB Atlas.
-* **Optimization:** Designing custom in-memory caching proxies (reducing API latency from 1150ms to 7ms) and securing Cloudinary CDN pipelines.
+- **Frontend:** React.js · Vite · Tailwind CSS · Responsive SPA Architecture · Code Splitting
+- **Backend:** Node.js · Express.js · REST API Design · Layered MVC Architecture
+- **Data Layer:** MongoDB Atlas · Mongoose ODM · 2dsphere Geospatial Indexing
+- **Advanced:** TypeScript · Turborepo · WebSockets · JWT/RBAC · Cloudinary CDN Integration
 
-**Cybersecurity Operations & Engineering**
-* **Identity Management:** Deploying stateless, zero-trust backends with HTTP-only JWT cookies, bcrypt hashing, and Role-Based Access Control (RBAC).
-* **Application Security:** Mitigating OWASP Top 10 risks, including custom recursive NoSQL injection prevention, XSS sanitization, and HPP normalization.
-* **Security Operations (SOC):** Utilizing Wazuh SIEM for endpoint log correlation, threat monitoring, and designing virtual network segmentation (Cisco Packet Tracer).
-* **Infrastructure Hardening:** Implementing global IP rate-limiting, Helmet security headers, and strict CORS policies across production environments.
+**Cybersecurity & Network Defense**
+- **AppSec:** OWASP Top 10 Mitigation · NoSQL Injection (express-mongo-sanitize) · XSS Prevention · HPP Normalization
+- **Auth & Identity:** Stateless JWT (HTTP-only cookies) · bcrypt · Role-Based Access Control
+- **Network:** Rate Limiting · Helmet Security Headers · CORS Enforcement · SSL/TLS Hardening
+- **SOC Operations:** Wazuh SIEM · Log Correlation · Network Segmentation · Cisco Packet Tracer
+- **Offensive / Labs:** TryHackMe · HackTheBox · OverTheWire · CTF Competitions
 
----
-
-### 📡 Current Operations
-- 🚀 **Developing:** [MedcaLink HMS](https://github.com/harisx404/MedicaLink-HMS) — An enterprise-grade Hospital Management SaaS featuring data isolation, WebSockets, and AI integration.
-- ✅ **Deployed:** [TourMate-Malakand Frontend](https://github.com/harisx404/tourmate_malakand_frontend) | [TourMate-Malakand Backend](https://github.com/harisx404/tourmate_malakand_backend) — A GIS-powered, secure MERN tourism platform.
-- 🛡️ **Defending:** Continuing hands-on SOC operations, network traffic analysis, and ethical hacking via TryHackMe labs.
-- ⚡ **Exploring:** AI engineering, intelligent automation workflows, and blockchain security architectures (KPITB).
+**Foundation**
+- **Networking:** TCP/IP · DNS · DHCP · OSI Model · Subnetting · Routing (Scaler Certified)
+- **Programming:** JavaScript · TypeScript · Python · C++
+- **Blockchain:** KPITB Blockchain Program (University of Malakand)
 
 ---
 
-### 📊 Professional Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=harisx404&show_icons=true&theme=tokyonight&hide_border=true&title_color=38B2AC" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisx404&layout=compact&theme=tokyonight&hide_border=true&title_color=38B2AC" alt="Top Languages" />
-</p>
+## 🔴 Active Operations
+
+| Status | Project | Stack | Description |
+|--------|---------|-------|-------------|
+| 🟢 **Active** | [MedicaLink HMS](https://github.com/harisx404/MedicaLink-HMS) | TypeScript · MERN · Turborepo · WebSockets | Enterprise Hospital Management SaaS — multi-tenant, real-time, secure |
+| ✅ **Deployed** | [TourMate Malakand — Frontend](https://github.com/harisx404/tourmate_malakand_frontend) | React.js · Mapbox GL JS · Vite | Full-Stack MERN Tourism Platform — Final Year Project |
+| ✅ **Deployed** | [TourMate Malakand — Backend](https://github.com/harisx404/tourmate_malakand_backend) | Node.js · Express.js · MongoDB | Secure REST API — JWT, RBAC, OWASP mitigations, 99% cache optimization |
 
 ---
-*“Engineering Secure Code. Defending Digital Assets.”*
+
+## 📊 GitHub Metrics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harisx404&show_icons=true&theme=dark&hide_border=true&bg_color=080808&title_color=00ff41&icon_color=00d4ff&text_color=e2e2e2&ring_color=00ff41)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harisx404&layout=compact&theme=dark&hide_border=true&bg_color=080808&title_color=00ff41&text_color=e2e2e2)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=harisx404&theme=dark&hide_border=true&background=080808&ring=00ff41&fire=00d4ff&currStreakLabel=00ff41)
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+| Achievement | Detail |
+|-------------|--------|
+| 🥇 **National Rank** | Top 15% (84.6th percentile) — NSCT, HEC/MoITT · 33,000+ candidates |
+| 🛡️ **SOC Intern** | SOC Analyst Intern · Tech Hierarchy (Mar 2026) · Wazuh SIEM · Threat Monitoring |
+| 🎓 **Academic** | A+ Grade — Bachelor of Science in Information Technology (2022–2026) |
+| 📡 **Networking** | Scaler Master Computer Networking Certificate |
+| 🔐 **Cybersecurity** | 96% Academic Score · Active CTF Practitioner (THM, HTB, OTW) |
+| ⛓️ **Blockchain** | KPITB Blockchain Program — University of Malakand |
+
+---
+
+## 🛡️ Security Philosophy
+
+```
+"A developer who understands how systems break is the strongest
+ person to build systems that don't."
+                                        — root@harisx404:~$ _
+```
+
+---
+
+## 📬 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harisx404-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harisx404)
+[![GitHub](https://img.shields.io/badge/GitHub-harisx404-181717?style=flat&logo=github&logoColor=white)](https://github.com/harisx404)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-harisx404-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/harisx404)
+
+</div>
+    
