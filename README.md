@@ -180,6 +180,9 @@ Update the Status column as each portfolio matures:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harisx404&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=080808&title_color=00ff41&text_color=e2e2e2)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=harisx404&theme=dark&hide_border=true&background=080808&ring=00ff41&fire=00d4ff&currStreakLabel=00ff41&v=2)
+
+
 </div>
 
 ---
